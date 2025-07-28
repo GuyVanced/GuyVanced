@@ -28,7 +28,7 @@
 <!-- Add or remove badges as needed -->
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 - [**FinTrack**](https://github.com/GuyVanced/django-Fintrack): A collaborative full-fledged web application built as part of the final project for eSewa Career Climber 2025.
