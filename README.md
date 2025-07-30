@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **[Task Manager API](https://github.com/GuyVanced/task-manager-api)**
+- 🔭 I’m currently working on: **Backend Projects using Python**
 - 🌱 I’m learning: `FastAPI`,`Django` `Data Engineering`,`AI/ML`
 - 📫 How to reach me: [pandeykushal017@gmail.com](mailto:pandeykushal017@gmail.com)
 
@@ -43,8 +43,8 @@
 ## 🚀 Featured Projects
 
 - [**FinTrack**](https://github.com/GuyVanced/django-Fintrack): A collaborative full-fledged web application built as part of the final project for eSewa Career Climber 2025.
-- [**BrightPath AI**](https://github.com/GuyVanced/BrightPathhAI): AI-Powered Roadmap Tree Generator based on users learning interests. Final Capstone Project
-- [**Receipt Parser AI**](https://github.com/GuyVanced/receipt-parser-api): A Django RestAPI that extracts information from receipt images using Gemini Multimodel gemini-2.5-flash
+- [**BrightPath AI**](https://github.com/GuyVanced/BrightPathhAI): AI-Powered Roadmap Tree Generator based on users learning interests. Built for my undergraduate capstone project.
+- [**Receipt Parser AI**](https://github.com/GuyVanced/receipt-parser-api): A Django RestAPI that extracts information from receipt images using Gemini Multimodel gemini-2.5-flash.
 
 <!-- Add more projects as needed -->
 
