@@ -1,7 +1,7 @@
 <!-- Banner or Greeting -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/GuyVanced" target="_blank">Kushal</a> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;;AI+%26+ML+Explorer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
